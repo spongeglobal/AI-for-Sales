@@ -1,0 +1,27 @@
+"Exercise 2 – Distributor C (Kandy): tea vs confectionery by route, Jul–Sep 2026 (LKR)",,,,,,,
+,,,,,,,
+Route,Month,Tea Sales,Confectionery Sales,Outlets on Route,Display Chillers Working,Main Outlet Type,Notes
+Route 1 - Kandy City,Jul-2026,"4,600,000","2,530,000",230,44,"Supermarkets, pharmacies & groceries",
+Route 1 - Kandy City,Aug-2026,"4,462,000","2,499,000",230,44,"Supermarkets, pharmacies & groceries",
+Route 1 - Kandy City,Sep-2026,"4,370,000","2,404,000",230,44,"Supermarkets, pharmacies & groceries",
+Route 2 - Gampola,Jul-2026,"3,800,000","836,000",165,9,Groceries,
+Route 2 - Gampola,Aug-2026,"3,686,000","774,000",165,9,Groceries,
+Route 2 - Gampola,Sep-2026,"3,610,000","794,000",165,9,Groceries,Distributor says no budget for more display chillers
+Route 3 - Digana,Jul-2026,"3,400,000","1,768,000",150,29,Groceries & bakeries,
+Route 3 - Digana,Aug-2026,"3,298,000","1,748,000",150,29,Groceries & bakeries,
+Route 3 - Digana,Sep-2026,"3,230,000","1,647,000",150,29,Groceries & bakeries,
+Route 4 - Katugastota,Jul-2026,"1,900,000","1,026,000",85,17,Groceries,
+Route 4 - Katugastota,Aug-2026,"1,843,000","1,014,000",85,17,Groceries,
+Route 4 - Katugastota,Sep-2026,"1,805,000","957,000",85,17,Groceries,
+Route 5 - Teldeniya,Jul-2026,"3,100,000","961,000",140,27,Small rural groceries,Frequent power cuts
+Route 5 - Teldeniya,Aug-2026,"3,007,000","872,000",140,27,Small rural groceries,Outlets switching off chillers at night to save electricity
+Route 5 - Teldeniya,Sep-2026,"2,945,000","884,000",140,27,Small rural groceries,Melted / sticky confectionery returns up
+Route 6 - Pilimathalawa,Jul-2026,"3,300,000","1,650,000",145,28,Groceries & bakeries,
+Route 6 - Pilimathalawa,Aug-2026,"3,201,000","1,633,000",145,28,Groceries & bakeries,
+Route 6 - Pilimathalawa,Sep-2026,"3,135,000","1,630,000",145,28,Groceries & bakeries,
+Route 7 - Peradeniya,Jul-2026,"3,000,000","1,500,000",130,26,School canteens & groceries,
+Route 7 - Peradeniya,Aug-2026,"2,910,000","582,000",130,26,School canteens & groceries,Schools closed for term holidays most of the month
+Route 7 - Peradeniya,Sep-2026,"2,850,000","1,311,000",130,26,School canteens & groceries,
+Route 8 - Kundasale,Jul-2026,"3,200,000","1,696,000",140,27,Groceries & bakeries,
+Route 8 - Kundasale,Aug-2026,"3,104,000","1,614,000",140,27,Groceries & bakeries,
+Route 8 - Kundasale,Sep-2026,"3,040,000","1,642,000",140,27,Groceries & bakeries,

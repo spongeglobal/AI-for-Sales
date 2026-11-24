@@ -1,0 +1,15 @@
+"Exercise 3 – Sunshine Consumer, Distributor A (Gampaha): Target vs Achievement by Sales Rep, October 2026 (LKR)",,,,,,,,,
+"Yellow columns: ask the AI for the formula, then paste it in row 5 and copy down.",,,,,,,,,
+,,,,,,,,,
+Sales Rep,Route,Target,Actual,Achievement %,Gap to Target,Status (Green/Amber/Red),Rank,,"Rule for Status: Green = 100% or more, Amber = 90–99%, Red = below 90%"
+Rep 01,Route 01,"5,200,000","5,460,000",,,,,,
+Rep 02,Route 02,"4,800,000","4,320,000",,,,,,"Example of expected format (Rep 01): Achievement 105.0%, Gap 260,000, Status Green, Rank 2"
+Rep 03,Route 03,"5,600,000","5,380,000",,,,,,
+Rep 04,Route 04,"4,100,000","4,350,000",,,,,,
+Rep 05,Route 05,"5,000,000","4,200,000",,,,,,
+Rep 06,Route 06,"4,500,000","4,590,000",,,,,,
+Rep 07,Route 07,"6,200,000","5,700,000",,,,,,
+Rep 08,Route 08,"3,900,000","3,980,000",,,,,,
+Rep 09,Route 09,"4,400,000","3,650,000",,,,,,
+Rep 10,Route 10,"5,300,000","5,150,000",,,,,,
+TOTAL,,"49,000,000","46,780,000",,,,,,

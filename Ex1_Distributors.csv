@@ -1,0 +1,17 @@
+"Exercise 1 – Sunshine Consumer Lanka: four distributors, monthly secondary sales, Jul–Sep 2026 (LKR)",,,,,,,,,,,,
+"Sales to retail outlets (general trade, supermarkets, pharmacies). Figures are training data, not actual Sunshine results.",,,,,,,,,,,,
+Distributor,Territory,Month,Tea – Watawala & Ran Kahata,Tea – Zesta (Premium),Confectionery – Bulk Packs,Confectionery – Impulse,Total Sales,Outlet Universe,Outlets Billed,Planned Calls,Productive Calls,Notes
+Distributor A,Gampaha,Jul-2026,"22,590,000","7,530,000","11,044,000","9,036,000","50,200,000","2,400","1,960","9,800","7,650",
+Distributor A,Gampaha,Aug-2026,"23,310,000","7,770,000","11,396,000","9,324,000","51,800,000","2,400","1,975","9,800","7,700",
+Distributor A,Gampaha,Sep-2026,"24,030,000","8,010,000","11,748,000","9,612,000","53,400,000","2,400","1,990","9,800","7,780",
+Distributor B,Galle,Jul-2026,"16,750,000","6,030,000","6,030,000","4,690,000","33,500,000","1,700","1,210","7,000","4,900",
+Distributor B,Galle,Aug-2026,"16,900,000","6,084,000","6,084,000","4,732,000","33,800,000","1,700","1,205","7,000","4,880",
+Distributor B,Galle,Sep-2026,"17,050,000","6,138,000","11,138,000","4,774,000","39,100,000","1,700","1,215","7,000","4,930",Sep includes one-off bulk order of Rs 5.0M (Confectionery – Bulk Packs) from a hotel group for a Christmas-season event. Not repeating.
+Distributor C,Kandy,Jul-2026,"21,000,000","6,720,000","8,400,000","5,880,000","42,000,000","2,100","1,510","8,600","5,850",
+Distributor C,Kandy,Aug-2026,"20,706,000","6,496,000","8,526,000","4,872,000","40,600,000","2,100","1,420","8,600","5,500",2 sales reps on leave part of month
+Distributor C,Kandy,Sep-2026,"20,882,000","6,304,000","8,274,000","3,940,000","39,400,000","2,100","1,325","8,600","5,170",Distribution lorry breakdown 6 days
+Distributor D,Kurunegala,Jul-2026,"9,424,000","2,976,000","6,200,000","6,200,000","24,800,000","1,450",840,"3,900","3,310",
+Distributor D,Kurunegala,Aug-2026,"9,994,000","3,156,000","6,575,000","6,575,000","26,300,000","1,450",880,"4,000","3,420",
+Distributor D,Kurunegala,Sep-2026,"10,602,000","3,348,000","6,975,000","6,975,000","27,900,000","1,850",925,"4,100","3,520",Outlet census updated in Sep – universe now includes 400 newly mapped outlets
+,,,,,,,,,,,,
+Strike rate = Productive Calls ÷ Planned Calls.  Coverage = Outlets Billed ÷ Outlet Universe.,,,,,,,,,,,,
